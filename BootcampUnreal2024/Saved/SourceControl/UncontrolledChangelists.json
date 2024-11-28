@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/juano/Documents/GitHub/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Maps/JunaSection.umap",
 				"C:/Users/juano/Documents/GitHub/BootcampUnreal/BootcampUnreal2024/Content/FirstPerson/Maps/FirstPersonMap_BuiltData.uasset",
 				"C:/Users/juano/Documents/GitHub/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/BluePrints/BPJuan/Player.uasset",
@@ -24,6 +25,9 @@
 				"C:/Users/juano/Documents/GitHub/BootcampUnreal/BootcampUnreal2024/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
 				"C:/Users/juano/Documents/GitHub/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/BluePrints/BP_GameMode.uasset",
 				"C:/Users/juano/Documents/GitHub/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/BluePrints/BPJuan/GM_Player.uasset",
+=======
+				"C:/Users/user/Documents/GitHub/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Maps/MuuuMap.umap",
+>>>>>>> DevNati
 				"E:/Unreal/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Materials/Alternates/M_PolygonScifi_04_F.uasset",
 				"E:/Unreal/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Materials/Alternates/M_PolygonScifi_04_E.uasset",
 				"E:/Unreal/BootcampUnreal/BootcampUnreal2024/Content/PolygonScifi/Materials/Alternates/M_PolygonScifi_04_E.uasset",
