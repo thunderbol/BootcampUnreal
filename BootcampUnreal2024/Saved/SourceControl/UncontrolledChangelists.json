@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"C:/Users/juano/Documents/GitHub/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Maps/JunaSection.umap",
 				"C:/Users/juano/Documents/GitHub/BootcampUnreal/BootcampUnreal2024/Content/FirstPerson/Maps/FirstPersonMap_BuiltData.uasset",
 				"C:/Users/juano/Documents/GitHub/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/BluePrints/BPJuan/Player.uasset",
@@ -28,6 +29,31 @@
 =======
 				"C:/Users/user/Documents/GitHub/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Maps/MuuuMap.umap",
 >>>>>>> DevNati
+=======
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/BluePrints/BP_Misil.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Materials/Paint_-_Metallic__Black_.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Materials/Titanium_-_Satin.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Meshes/Weapons/missile_v1.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Maps/MisilTest.umap",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Meshes/Biplane.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Meshes/Biplane_rigged.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Meshes/Biplane_rigged_PhysicsAsset.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Meshes/Biplane_rigged_Skeleton.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Meshes/BiplaneWing.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/BluePrints/BP_GameMode.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Meshes/Weapons/missile_v1_Skel.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Meshes/Weapons/missile_v1_SkelMesh.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Particles/FX_FlameMisil.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Materials/Misc/M_PolygonScifi_Bkgrnd_Bld_Emissive_01.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Materials/Misc/M_PolygonSciFi_FX_Fire.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Materials/Misc/M_PolygonScifi_Hologram_Outlines.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/Bluprints/BP_Misil.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/Art/Misil/missile_v1.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/Art/Misil/Titanium_-_Satin.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/Art/Misil/Paint_-_Metallic__Black_.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Meshes/missile_v1.uasset",
+				"C:/Users/ASUS/Documents/Proyectos/BootcampUnreal/BootcampUnreal2024/Content/Maps/MisilTest.umap",
+>>>>>>> DevMass
 				"E:/Unreal/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Materials/Alternates/M_PolygonScifi_04_F.uasset",
 				"E:/Unreal/BootcampUnreal/BootcampUnreal2024/Content/BootCamp/Materials/Alternates/M_PolygonScifi_04_E.uasset",
 				"E:/Unreal/BootcampUnreal/BootcampUnreal2024/Content/PolygonScifi/Materials/Alternates/M_PolygonScifi_04_E.uasset",
